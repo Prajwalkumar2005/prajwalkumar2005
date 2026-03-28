@@ -36,9 +36,12 @@
 </tr>
 </table>
 
-<p align="center">
-<strong>💻 Tech Stack Usage (by repos)</strong><br><br>
-![HTML](https://img.shields.io/badge/HTML-4_repos-E34F26?style=flat&logo=html5&logoColor=white&labelColor=282828) ![Python](https://img.shields.io/badge/Python-2_repos-14354C?style=flat&logo=python&logoColor=white&labelColor=282828) ![JavaScript](https://img.shields.io/badge/JavaScript-2_repos-181717?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=282828) ![React](https://img.shields.io/badge/React-1_repo-20232A?style=flat&logo=react&logoColor=61DAFB&labelColor=282828) ![CSS](https://img.shields.io/badge/CSS-1_repo-1572B6?style=flat&logo=css3&logoColor=white&labelColor=282828)
+<p align="center"><strong>💻 Tech Stack Usage (by repos)</strong><br><br>
+![HTML](https://img.shields.io/badge/HTML-4_repos-E34F26?style=flat&logo=html5&logoColor=white&labelColor=282828)
+![Python](https://img.shields.io/badge/Python-2_repos-14354C?style=flat&logo=python&logoColor=white&labelColor=282828)
+![JavaScript](https://img.shields.io/badge/JavaScript-2_repos-181717?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=282828)
+![React](https://img.shields.io/badge/React-1_repo-20232A?style=flat&logo=react&logoColor=61DAFB&labelColor=282828)
+![CSS](https://img.shields.io/badge/CSS-1_repo-1572B6?style=flat&logo=css3&logoColor=white&labelColor=282828)
 </p>
 
 ### 🌐 Connect
