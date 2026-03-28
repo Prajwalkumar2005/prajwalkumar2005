@@ -25,8 +25,8 @@
 
 ### 📊 GitHub Snapshot
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalkumar2005&show_icons=true&theme=transparent&hide_title=true&rank_icon=github" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalkumar2005&layout=compact&theme=transparent&hide_title=true" height="140" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=prajwalkumar2005&show_icons=true&theme=transparent&hide_title=true&rank_icon=github" height="140" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prajwalkumar2005&layout=compact&theme=transparent&hide_title=true" height="140" />
 </p>
 
 ### 🌐 Connect
