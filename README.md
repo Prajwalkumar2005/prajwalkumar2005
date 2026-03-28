@@ -24,9 +24,12 @@
 - Shipping client projects with WebSetGlob, exploring open-source (freeCodeCamp and more), and creating content as **@hello_prjwlkumar**
 
 ### 📊 GitHub Snapshot
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=prajwalkumar2005&show_icons=true&theme=transparent&hide_title=true&rank_icon=github" height="140" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prajwalkumar2005&layout=compact&theme=transparent&hide_title=true" height="140" />
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=prajwalkumar2005&show_icons=true&theme=transparent&hide_title=true&rank_icon=github" height="145" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prajwalkumar2005&layout=compact&theme=transparent&hide_title=true" height="130" />
 </p>
 
 ### 🌐 Connect
