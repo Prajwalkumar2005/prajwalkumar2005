@@ -24,12 +24,22 @@
 - Shipping client projects with WebSetGlob, exploring open-source (freeCodeCamp and more), and creating content as **@hello_prjwlkumar**
 
 ### 📊 GitHub Snapshot
+
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=prajwalkumar2005&show_icons=true&theme=transparent&hide_title=true&rank_icon=github" height="145" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=prajwalkumar2005&show_icons=true&theme=transparent&hide_title=true&rank_icon=github" height="155" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prajwalkumar2005&layout=compact&theme=transparent&hide_title=true" height="130" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prajwalkumar2005&layout=compact&theme=transparent&hide_title=true" height="135" />
+</p>
+
+<p align="center">
+  <strong>💻 Tech Stack Usage (by repos)</strong><br><br>
+  ![HTML](https://img.shields.io/badge/HTML-4_repos-E34F26?style=flat&logo=html5&logoColor=white&labelColor=282828)
+  ![Python](https://img.shields.io/badge/Python-2_repos-14354C?style=flat&logo=python&logoColor=white&labelColor=282828)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-2_repos-181717?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=282828)
+  ![React](https://img.shields.io/badge/React-1_repo-20232A?style=flat&logo=react&logoColor=61DAFB&labelColor=282828)
+  ![CSS](https://img.shields.io/badge/CSS-1_repo-1572B6?style=flat&logo=css3&logoColor=white&labelColor=282828)
 </p>
 
 ### 🌐 Connect
