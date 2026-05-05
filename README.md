@@ -21,7 +21,7 @@
 ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ### 📌 Current Focus
-- Shipping client projects with WebSetGlob, exploring open-sourc (freeCodeCamp and more), and creating content as **@hello_prjwlkumar**
+- Shipping client projects with WebSetGlob, exploring open-source (freeCodeCamp and more), and creating content as **@hello_prjwlkumar**
 
 ### 📊 GitHub Snapshot
 <table align="center"><tr><td><img src="https://github-readme-stats-fast.vercel.app/api?username=prajwalkumar2005&show_icons=true&theme=transparent&hide_title=true&rank_icon=github" height="155" /></td><td><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prajwalkumar2005&layout=compact&theme=transparent&hide_title=true" height="155" /></td></tr></table>
