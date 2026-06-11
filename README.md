@@ -1,4 +1,4 @@
-# Hi, I'm Prajwalkumar Methe 👋
+# Hi, I'm Prajwalkumar Methe 
 
 **AI & Web developer crafting 3D web experiences and automation-first products.**
 
