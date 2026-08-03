@@ -1,7 +1,7 @@
 # Hi, I'm Prajwalkumar Methe 
 
 **AI & Web developer crafting 3D web experiences and automation-first products
->>
+
 ### 🚀 About Me !
 - B.Tech in AI & Data Science from Pune, India
 - I build modern web apps, 3D websites, and automation workflowss
