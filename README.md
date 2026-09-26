@@ -5,7 +5,7 @@
 
 - B.Tech in AI & Data Science from Pune, India
 - I build modern web apps, 3D websites, and automation workflowss
-- Managed **16+ projects** including startup projects, open-source contributions, and data analytics dashboards **WebSetGlob (@websetglob) solution
+- Managed **16+ projects** including startup projects, open-source contributions, and data analytics dashboards **WebSetGlob (@websetglob) solutionn
 - Active contributor to open-source projects and educational initiative :
 
 ### 🛠 Tech
