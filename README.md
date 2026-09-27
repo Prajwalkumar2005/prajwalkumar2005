@@ -23,7 +23,7 @@
 ![Data Science](https://img.shields.io/badge/Data_Science-FF6B35?style=flat&logo=python&logoColor=white)
 
 ### 📌 Current Focus .
-- Shipping client projects with **WebSetGlob**, building production-grade solutions
+- Shipping client projects with **WebSetGlob**,building production-grade solutions
 - Active in open-source contributions (freeCodeCamp, community projects)
 - Creating tech content as **@hello_prjwlkumar** on social media
 - Exploring AI-native development and automation workflows
