@@ -5,7 +5,7 @@
 
 - B.Tech in AI & Data Science from Pune, India
 - I build modern web apps, 3D websites, and automation workflowss
-- Managed **16+ projects** including startup projects, open-source contributions, and data analytics dashboards **WebSetGlob (@websetglob) solutionn
+- Managed **16+ projects** including startup projects, open-source contributions, and data analytics dashboards **WebSetGlob (@websetglob) solution
 - Active contributor to open-source projects and educational initiative :
 
 ### 🛠 Tech
@@ -19,7 +19,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![3D Web](https://img.shields.io/badge/3D_Web-000000?style=flat&logo=three.js&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/AI_Tools-512BD4?style=flat&logo=google-gemini&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?stle=flat&logo=googlecloud&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data_Science-FF6B35?style=flat&logo=python&logoColor=white)
 
 ### 📌 Current Focus .
