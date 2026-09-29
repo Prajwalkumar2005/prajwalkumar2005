@@ -7,6 +7,7 @@
 - I build modern web apps, 3D websites, and automation workflowss
 - Managed **16+ projects** including startup projects, open-source contributions, and data analytics dashboards **WebSetGlob (@websetglob) solution
 - Active contributor to open-source projects and educational initiative :
+- 
 
 ### 🛠 Tech
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
