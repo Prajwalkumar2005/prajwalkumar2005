@@ -10,7 +10,7 @@
 - Active contributor to open-source projects and educational initiative :
 - 
 
-### 🛠 Tech skills
+### 🛠 Tech skills :
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
