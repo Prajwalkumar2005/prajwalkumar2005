@@ -5,7 +5,7 @@
 ### 🚀 About Me :
 
 - B.Tech in AI & Data Science from Pune, India
-- I build modern web apps, 3D websites, and automation workflows
+- I build modern web apps, 3D websites, and AUTOMATION workflows , fun tools used for and used by developers
 - Managed **16+ projects** including startup projects, open-source contributions, and data analytics dashboards **WebSetGlob (@websetglob) solutions
 - Active contributor to open-source projects and educational initiative :
 - 
