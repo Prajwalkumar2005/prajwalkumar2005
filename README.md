@@ -37,7 +37,7 @@
 - **Open-Source Forks** - Contributing to freeCodeCamp And community projects
 - LEARNING AND REVISING AIML FUNDAMENTALS
 
-### 📊 GitHub Snapshot
+### 📊 GitHub Snapshot :
 <table align="center"><tr><td><img src="https://github-readme-stats-fast.vercel.app/api?username=prajwalkumar2005&show_icons=true&theme=transparent&hide_title=true&rank_icon=github" height="155" /></td><td><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prajwalkumar2005&layout=compact&theme=transparent" height="155" /></td></tr></table>
 
 <p align="center"><strong>💻 Tech Stack Usage (by projects)</strong></p>
