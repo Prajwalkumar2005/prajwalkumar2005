@@ -5,7 +5,7 @@
 ### 🚀 About Me :
 
 - B.Tech in AI & Data Science from Pune, India
-- I build modern web apps, 3D websites, and AUTOMATION workflows , fun tools used for and used by developers
+- I build modern web apps, 3D websites, and AUTOMATION workflows , fun tools used for and used by developers 
 - Managed **16+ projects** including startup projects, open-source contributions, and data analytics dashboards **WebSetGlob (@websetglob) solutions
 - Active contributor to open-source projects and educational initiative :
 - 
@@ -25,6 +25,7 @@
 ![Data Science](https://img.shields.io/badge/Data_Science-FF6B35?style=flat&logo=python&logoColor=white)
 
 ### 📌 Current Focus .
+- resently made a extwnsion for youtube caption uh can check out its public repostry
 - Shipping client projects with **WebSetGlob**,building production-grade solutions
 - Active in open-source contributions (freeCodeCamp, community projects)
 - Creating tech content as **@hello_prjwlkumar** on social media
