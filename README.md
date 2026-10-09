@@ -35,7 +35,7 @@
 - **GitHub Tracker** - Web app for monitoring and analyzing GitHub user activity
 - **DSS Sales Dashboard** - Real-time sales analytics and trend analysis
 - **3D Web Experiences** - Interactive 3D web applications
-- **Open-Source Forks** - Contributing to freeCodeCamp And community projects
+- **Open-Source Forks** - Contributing to freeCodeCamp And community project
 - LEARNING AND REVISING AIML FUNDAMENTALS
 
 ### 📊 GitHub Snapshot :
