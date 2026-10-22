@@ -30,7 +30,7 @@
 - Shipping client projects with **WebSetGlob**,building production-grade solutions
 - Active in open-source contributions (freeCodeCamp, community projects)
 - Creating tech content as **@hello_prjwlkumar** on social media
-- Exploring AI-native development and automation workflows
+- Exploring AI-native development and automation workflows >
 - always learning new ai tools
 ### 🎯 Featured Projects
 - **GitHub Tracker** - Web app for monitoring and analyzing GitHub user activity
