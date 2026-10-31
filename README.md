@@ -2,7 +2,7 @@
 
 **AI & Web developer crafting 3D web experiences and automation-first products
 
-### 🚀 About Me : 
+### 🚀 About Me:
 
 - B.Tech in AI & Data Science from Pune, India .
 - I build modern web apps, 3D websites, and AUTOMATION workflows , fun tools used for and used by developersS
