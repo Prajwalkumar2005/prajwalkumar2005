@@ -8,7 +8,7 @@ watch my new extension
 - Managed **16+ projects** including startup projects, open-source contributions, and data analytics dashboards **WebSetGlob (@websetglob) solutions
 - Active contributor to open-source projects and educational initiative :
 ( I don't do opensource now ) I do content creation @hello_prjwlkumar
-  working on ai powered os check in repo
+  working on ai powered os check in repo .
 
 ### 🛠 Tech skills :
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
